@@ -1,5 +1,7 @@
 This directory includes a few sample datasets to get you started.
 
+CSV files live in `sample_data/`.
+
 *   `california_housing_data*.csv` is California housing data from the 1990 US
     Census; more information is available at:
     https://docs.google.com/document/d/e/2PACX-1vRhYtsvc5eOR2FWNCwaBiKL6suIOrxJig8LcSBbmCbyYsayia_DvPOOBlXZ4CAlQ5nlDD8kTaIDRwrN/pub
